@@ -5,4 +5,5 @@ target/
 Simple Project.iml
 derby.log
 metastore_db/
-project/
+project/project/     
+project/target/
